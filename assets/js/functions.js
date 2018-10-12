@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  width_height_ratio_lock();
+  //width_height_ratio_lock();
   // Get started!
 });
 
